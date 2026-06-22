@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "autor": "Wally Dev",
+        "texto": "Terminei meu primeiro projeto em JS!🚀",
+        "publicado": true,
+        "data": "22/06/2026",
+        "metricas": {
+            "curtidas": 42,
+            "compartilhamento": 8,
+            "visualizacoes": 310
+        },
+        "comentarios": [
+            { "usuario": "Lopes Cose", "texto": "Parabéns! Qual foi o projeto?"},
+            { "usuario2": "Bia Tech", "texto": "Incrível!! Você me inspira muito! 🐼 "}
+        ]
+    }
+]
