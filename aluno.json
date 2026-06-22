@@ -1,0 +1,13 @@
+{
+    "matricula": "2026AB12",
+    "nome": "Luan Silva",
+    "idade": 20,
+    "curso": "Desenvolvimento de Sistemas",
+    "notas": [8.5, 9.0, 7.5, 5.2],
+    "bolsista": true,
+    "endereco": {
+        "cidade":"Curitiba",
+        "estado": "PR"
+    }
+
+}
